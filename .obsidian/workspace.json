@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "3d3a52140d5dd487",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3de9f7705a7fb2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "926d2aed8974fc9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "28ad5ad658dcd927",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9aa2c4ecba22d9f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "0aebde49aa74cbf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5420edb739290657",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8934234ce829c984",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "54884d2a658bc63e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f72fca1ac52f29c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "a29b30bc002d0a81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "555d57bf999163d2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tasks/October 2024/2024-10-18.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-10-18"
+            }
+          },
+          {
+            "id": "c2af22b0fa25faf2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tasks/October 2024/2024-10-18.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-10-18"
+            }
+          },
+          {
+            "id": "4b71b2a40bcc1fd9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5c48c052d5cd1b2b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tasks/October 2024/2024-10-18.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-10-18"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "28ad5ad658dcd927",
+  "lastOpenFiles": [
+    "Tasks.md",
+    "Untitled.md",
+    "The Story of Hatred King.md",
+    "Fleeting Notes/2024-09-14.md",
+    "Fleeting Notes/2024-09-06.md",
+    "Fleeting Notes/2024-08-18.md",
+    "Fleeting Notes/2024-09-22.md",
+    "Fleeting Notes/2024-09-17.md",
+    "Litrature Notes/Free Lancing/Free Lancing.md",
+    "Spirint/2024-10-18.md",
+    "Tasks/October 2024/2024-10-18.md",
+    "Spirint/Untitled.md",
+    "Fleeting Notes/Welcome.md",
+    "Spirint",
+    "Note",
+    "Tasks/October 2024/Untitled.md",
+    "Tasks/October 2024",
+    "Tasks",
+    "Litrature Notes/Shall Scripting/Shall script.md",
+    "Fleeting Notes",
+    "Note/P_roject/Project.md",
+    "Note/A_reas/Areas..md",
+    "Litrature Notes/Shall Scripting",
+    "Note/R_esources/Resources.md",
+    "Litrature Notes/Free Lancing",
+    "Litrature Notes",
+    "How.md",
+    "Note/A_rchive/Archive.md",
+    "Note/A_rchive",
+    "Note/R_esources"
+  ]
+}

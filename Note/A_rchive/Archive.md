@@ -1,0 +1,1 @@
+That folder use to store any ideas but not related in that three catogery. may its useful or not. something you wants to store.
